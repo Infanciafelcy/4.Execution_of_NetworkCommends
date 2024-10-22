@@ -35,7 +35,7 @@ This commands includes
 
 ![image](https://github.com/user-attachments/assets/0ab30f0f-b3e9-466d-87f3-c77bf72e944c)
 
-*/ Trace Route
+## Trace Route
 
 ![image](https://github.com/user-attachments/assets/81f91634-1cc5-46f7-989b-5ee0ff7540d8)
 
